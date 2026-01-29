@@ -1,5 +1,23 @@
 # 💫 About Me:
-Hi, I’m Darshit — an Information Technology diploma student who believes in learning by building real things. I’m not just interested in theory; I focus on creating practical, working projects that help me understand how software is actually used in the real world.<br><br>My main interests are in mobile and cross-platform development, especially Android (Java/Kotlin) and Flutter. I enjoy turning ideas into simple, functional applications, even if they start small. For me, a working MVP is always better than a perfect idea that never gets built.<br><br>I’ve worked on multiple academic and personal projects such as student management systems, invoice apps, small games, portfolio websites, and utility tools. Each project is an opportunity for me to improve my coding style, problem-solving skills, and understanding of how different technologies connect.<br><br>I’m comfortable working with:<br><br>Languages: Java, Kotlin, Dart, Python, JavaScript<br><br>Tools & Tech: Android Studio, Flutter, Git/GitHub, Firebase, SQLite, basic web (HTML/CSS)<br><br>My development mindset is simple:<br><br>Start small, then iterate.<br><br>Focus on clarity over complexity.<br><br>Write code that is easy to understand and improve later.<br><br>Learn one new concept from every project.<br><br>I’m currently focused on strengthening my fundamentals, building a solid project portfolio, and moving toward becoming a professional software developer. I’m open to collaborations, internships, freelance learning projects, and honest code reviews that help me grow.
+Hi, I’m <b>Darshit</b> — an Information Technology diploma student who believes in learning by building real things. I’m not just interested in theory; I focus on creating practical, working projects that help me understand how software is actually used in the real world.<br><br>
+
+My main interests are in <b>mobile and cross-platform development</b>, especially <b>Android (Java/Kotlin)</b> and <b>Flutter</b>. I enjoy turning ideas into simple, functional applications, even if they start small. For me, a working MVP is always better than a perfect idea that never gets built.<br><br>
+
+I’ve worked on multiple academic and personal projects such as <b>student management systems, invoice apps, small games, portfolio websites, and utility tools</b>. Each project is an opportunity for me to improve my coding style, problem-solving skills, and understanding of how different technologies connect.<br><br>
+
+<b>Tech I’m comfortable with:</b><br><br>
+
+<b>Languages:</b> Java, Kotlin, Dart, Python, JavaScript<br><br>
+<b>Tools & Tech:</b> Android Studio, Flutter, Git/GitHub, Firebase, SQLite, basic web (HTML/CSS)<br><br>
+
+<b>My development mindset:</b><br><br>
+
+→ Start small, then iterate.<br>
+→ Focus on clarity over complexity.<br>
+→ Write code that is easy to understand and improve later.<br>
+→ Learn one new concept from every project.<br><br>
+
+I’m currently focused on <b>strengthening my fundamentals</b>, building a <b>solid project portfolio</b>, and moving toward becoming a <b>professional software developer</b>. I’m open to <b>collaborations, internships, freelance learning projects</b>, and honest code reviews that help me grow.
 
 
 ## 🌐 Socials:
